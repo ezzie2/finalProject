@@ -44,8 +44,6 @@ root                    (project root folder)
 
 
            Modifications made: Velocity of ball, speed rate of paddles, colors, font, screen width and height 
-
-
           
 
 
