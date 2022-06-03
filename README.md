@@ -43,6 +43,9 @@ root                    (project root folder)
            https://youtu.be/f84mdp5ma1k
 
 
-           Modifications made: Velocity of ball, speed rate of paddles, colors, font, screen width and height
+           Modifications made: Velocity of ball, speed rate of paddles, colors, font, screen width and height 
+
+
+          
 
 
